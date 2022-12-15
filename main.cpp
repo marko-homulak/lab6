@@ -124,10 +124,6 @@ public:
         cout << endl;
     }
 
-    T const operator [](int i)
-    {
-        return arr[i];
-    }
 };
 
 int main()
